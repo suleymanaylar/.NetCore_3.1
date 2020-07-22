@@ -660,11 +660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.Entities\\E_Ticaret.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.Entities\\E_Ticaret.Entities.csproj",
       "projectName": "E_Ticaret.Entities",
-      "projectPath": "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.Entities\\E_Ticaret.Entities.csproj",
+      "projectPath": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.Entities\\E_Ticaret.Entities.csproj",
       "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.Entities\\obj\\",
+      "outputPath": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suley\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -680,8 +680,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.Core\\E_Ticaret.Core.csproj": {
-              "projectPath": "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.Core\\E_Ticaret.Core.csproj"
+            "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.Core\\E_Ticaret.Core.csproj": {
+              "projectPath": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.Core\\E_Ticaret.Core.csproj"
             }
           }
         }

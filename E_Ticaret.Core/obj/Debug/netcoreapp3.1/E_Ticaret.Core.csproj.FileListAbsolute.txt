@@ -7,3 +7,12 @@ C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.Core\bin\Debug\netcoreapp3.1\E_T
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.csproj.CoreCompileInputs.cache
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.dll
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\bin\Debug\netcoreapp3.1\E_Ticaret.Core.deps.json
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\bin\Debug\netcoreapp3.1\E_Ticaret.Core.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\bin\Debug\netcoreapp3.1\E_Ticaret.Core.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.AssemblyInfoInputs.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.AssemblyInfo.cs
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.pdb

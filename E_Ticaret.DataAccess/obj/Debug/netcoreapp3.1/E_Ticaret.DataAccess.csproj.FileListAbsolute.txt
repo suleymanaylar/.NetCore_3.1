@@ -12,3 +12,17 @@ C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.DataAccess\bin\Debug\netcoreapp3
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.DataAccess\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.pdb
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.csproj.CopyComplete
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\bin\Debug\netcoreapp3.1\E_Ticaret.DataAccess.deps.json
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\bin\Debug\netcoreapp3.1\E_Ticaret.DataAccess.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\bin\Debug\netcoreapp3.1\E_Ticaret.DataAccess.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\bin\Debug\netcoreapp3.1\E_Ticaret.Core.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\bin\Debug\netcoreapp3.1\E_Ticaret.Core.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.AssemblyInfoInputs.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.AssemblyInfo.cs
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.csproj.CopyComplete
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.DataAccess\obj\Debug\netcoreapp3.1\E_Ticaret.DataAccess.pdb

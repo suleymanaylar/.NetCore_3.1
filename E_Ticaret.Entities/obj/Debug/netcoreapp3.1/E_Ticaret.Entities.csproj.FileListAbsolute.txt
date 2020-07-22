@@ -10,3 +10,15 @@ C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.Entities\obj\Debug\netcoreapp3.1
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.csproj.CopyComplete
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.dll
 C:\Users\suley\source\repos\E_Ticaret\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.deps.json
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\bin\Debug\netcoreapp3.1\E_Ticaret.Core.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\bin\Debug\netcoreapp3.1\E_Ticaret.Core.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.AssemblyInfoInputs.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.AssemblyInfo.cs
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.csproj.CopyComplete
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Entities\obj\Debug\netcoreapp3.1\E_Ticaret.Entities.pdb

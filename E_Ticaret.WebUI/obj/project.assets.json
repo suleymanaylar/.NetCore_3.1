@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.WebUI\\E_Ticaret.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.WebUI\\E_Ticaret.WebUI.csproj",
       "projectName": "E_Ticaret.WebUI",
-      "projectPath": "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.WebUI\\E_Ticaret.WebUI.csproj",
+      "projectPath": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.WebUI\\E_Ticaret.WebUI.csproj",
       "packagesPath": "C:\\Users\\suley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suley\\AppData\\Roaming\\NuGet\\NuGet.Config",

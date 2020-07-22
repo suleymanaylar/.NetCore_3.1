@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBQDf58oNmdTYwi4uh/4SFDPEoFaVCjTH/vzWj4LoK0nyICheMqF9GRvNZzh6BJwN2kn1skcerahyQIHH9gKew==",
+  "dgSpecHash": "eTKI2fccqb9OazhBW7SJnKD95OU6g6zB8cw9k3IkljGLjikFxq7z2eQmzwyLvcquPFf25ELeoQ2rPDtNsK7N3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suley\\source\\repos\\E_Ticaret\\E_Ticaret.Core\\E_Ticaret.Core.csproj",
+  "projectFilePath": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.Core\\E_Ticaret.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suley\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\suley\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
