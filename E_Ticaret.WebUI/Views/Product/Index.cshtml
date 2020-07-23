@@ -1,0 +1,30 @@
+﻿@model E_Ticaret.WebUI.Models.ProductListViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Product Name</td>
+            <td>Unit Price</td>
+            <td>Unit in Stock</td>
+        </tr>
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.Unitprice</td>
+                <td>@item.UnitsInStock</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

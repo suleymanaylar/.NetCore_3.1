@@ -7,7 +7,7 @@ using System.Text;
 
 namespace E_Ticaret.Bussines.Concrete
 {
-    class CategoryManager : ICategoryService
+    public class CategoryManager : ICategoryService
     {
         private ICategoryDal _categoryDal;
 

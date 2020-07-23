@@ -7,7 +7,7 @@ using System.Text;
 
 namespace E_Ticaret.Bussines.Concrete
 {
-    class ProductManager : IProductService
+   public class ProductManager : IProductService
     {
         private IProductDal _productDal;
 
@@ -23,7 +23,7 @@ namespace E_Ticaret.Bussines.Concrete
 
         public void Delete(int productId)
         {
-            _productDal.Delete(productId);
+            _productDal.Delete(new Product { ProductId = productId });
         }
 
         public List<Product> GetAll()

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Ticaret.WebUI", "E_Ticaret.WebUI\E_Ticaret.WebUI.csproj", "{277F0987-BE4F-447F-B0EB-2DD7B546A9E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_Ticaret.Core", "E_Ticaret.Core\E_Ticaret.Core.csproj", "{73B02E5E-8F92-40D5-8B79-0A0B32544F92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Ticaret.Core", "E_Ticaret.Core\E_Ticaret.Core.csproj", "{73B02E5E-8F92-40D5-8B79-0A0B32544F92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_Ticaret.Bussines", "E_Ticaret.Bussines\E_Ticaret.Bussines.csproj", "{4EB91D75-3C22-45D3-AE09-A5A2FAB80525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Ticaret.Bussines", "E_Ticaret.Bussines\E_Ticaret.Bussines.csproj", "{4EB91D75-3C22-45D3-AE09-A5A2FAB80525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_Ticaret.DataAccess", "E_Ticaret.DataAccess\E_Ticaret.DataAccess.csproj", "{4F482B28-7308-4203-A813-61BD8E4A5CA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Ticaret.DataAccess", "E_Ticaret.DataAccess\E_Ticaret.DataAccess.csproj", "{4F482B28-7308-4203-A813-61BD8E4A5CA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_Ticaret.Entities", "E_Ticaret.Entities\E_Ticaret.Entities.csproj", "{85C9FAD6-7B2E-4ADF-8D52-0E18E9E813B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Ticaret.Entities", "E_Ticaret.Entities\E_Ticaret.Entities.csproj", "{85C9FAD6-7B2E-4ADF-8D52-0E18E9E813B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Ticaret.WebUI", "E_Ticaret.WebUI\E_Ticaret.WebUI.csproj", "{18C3DA3B-3861-4D1F-96A5-DC90541FF42B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{277F0987-BE4F-447F-B0EB-2DD7B546A9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{277F0987-BE4F-447F-B0EB-2DD7B546A9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{277F0987-BE4F-447F-B0EB-2DD7B546A9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{277F0987-BE4F-447F-B0EB-2DD7B546A9E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{73B02E5E-8F92-40D5-8B79-0A0B32544F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{73B02E5E-8F92-40D5-8B79-0A0B32544F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B02E5E-8F92-40D5-8B79-0A0B32544F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{85C9FAD6-7B2E-4ADF-8D52-0E18E9E813B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85C9FAD6-7B2E-4ADF-8D52-0E18E9E813B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85C9FAD6-7B2E-4ADF-8D52-0E18E9E813B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C3DA3B-3861-4D1F-96A5-DC90541FF42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C3DA3B-3861-4D1F-96A5-DC90541FF42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C3DA3B-3861-4D1F-96A5-DC90541FF42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C3DA3B-3861-4D1F-96A5-DC90541FF42B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

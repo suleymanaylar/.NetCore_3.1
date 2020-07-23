@@ -15,3 +15,10 @@ C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\obj\Debug\net
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\obj\Debug\netcoreapp3.1\E_Ticaret.Bussines.csproj.CoreCompileInputs.cache
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\obj\Debug\netcoreapp3.1\E_Ticaret.Bussines.dll
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\obj\Debug\netcoreapp3.1\E_Ticaret.Bussines.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\bin\Debug\netcoreapp3.1\E_Ticaret.Core.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\bin\Debug\netcoreapp3.1\E_Ticaret.DataAccess.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.dll
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\bin\Debug\netcoreapp3.1\E_Ticaret.DataAccess.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\bin\Debug\netcoreapp3.1\E_Ticaret.Core.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Bussines\obj\Debug\netcoreapp3.1\E_Ticaret.Bussines.csproj.CopyComplete
