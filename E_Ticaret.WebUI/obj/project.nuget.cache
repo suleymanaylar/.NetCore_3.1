@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9MPjz+xfYzIVTCzwoeaaLxGYeQQ+3vcDgI5be1iANNwkP35JEdoPCTBLBXtwjfE4p7OB5SKegXS/BiRTQ3sgdg==",
+  "dgSpecHash": "nyUfzfNq6zzDpd8QmHL3uAXwv+FRmlBZBAIHWdtVabR2JSohdr75+wFYkHlAoCkhC002i1N8kg7qqBw4k6NMkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\suley\\Desktop\\NetCore_3.1\\.NetCore_3.1\\E_Ticaret.WebUI\\E_Ticaret.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\suley\\.nuget\\packages\\jquery\\3.5.1\\jquery.3.5.1.nupkg.sha512",
     "C:\\Users\\suley\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\suley\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\suley\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",

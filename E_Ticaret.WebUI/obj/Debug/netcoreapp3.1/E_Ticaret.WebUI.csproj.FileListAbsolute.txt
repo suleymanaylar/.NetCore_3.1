@@ -18,9 +18,6 @@ C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcor
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\E_Ticaret.WebUI.RazorCoreGenerate.cache
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\E_Ticaret.WebUI.RazorTargetAssemblyInfo.cache
@@ -106,8 +103,6 @@ C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcor
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\E_Ticaret.WebUI.csprojAssemblyReference.cache
-C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\E_Ticaret.WebUI.csproj.CoreCompileInputs.cache
-C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\E_Ticaret.WebUI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -149,3 +144,7 @@ C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcor
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcoreapp3.1\E_Ticaret.Core.pdb
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcoreapp3.1\E_Ticaret.DataAccess.pdb
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\bin\Debug\netcoreapp3.1\E_Ticaret.Entities.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_Layout.cshtml.g.cs
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\E_Ticaret.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\E_Ticaret.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs

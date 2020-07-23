@@ -7,7 +7,7 @@ using System.Text;
 
 namespace E_Ticaret.Bussines.Concrete
 {
-   public class ProductManager : IProductService
+    public class ProductManager : IProductService
     {
         private IProductDal _productDal;
 
@@ -33,7 +33,7 @@ namespace E_Ticaret.Bussines.Concrete
 
         public List<Product> GetByCategory(int categoryId)
         {
-            return _productDal.GetList(p => p.CategoryId == categoryId);
+            return _productDal.GetList(p => p.CategoryId == categoryId || categoryId == 0);
         }
 
         public void Update(Product product)
