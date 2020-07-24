@@ -36,6 +36,11 @@ namespace E_Ticaret.Bussines.Concrete
             return _productDal.GetList(p => p.CategoryId == categoryId || categoryId == 0);
         }
 
+        public Product GetById(int productId)
+        {
+            return _productDal.Get(x => x.ProductId == productId);
+        }
+
         public void Update(Product product)
         {
             _productDal.Update(product);

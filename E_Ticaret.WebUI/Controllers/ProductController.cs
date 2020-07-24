@@ -31,5 +31,6 @@ namespace E_Ticaret.WebUI.Controllers
             };
             return View(model);
         }
+       
     }
 }

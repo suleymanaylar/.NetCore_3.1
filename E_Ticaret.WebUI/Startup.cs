@@ -6,8 +6,10 @@ using E_Ticaret.Bussines.Abstract;
 using E_Ticaret.Bussines.Concrete;
 using E_Ticaret.DataAccess.Abstract;
 using E_Ticaret.DataAccess.Concrete.EntityFramework;
+using E_Ticaret.WebUI.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -33,6 +35,14 @@ namespace E_Ticaret.WebUI
             services.AddScoped<ICategoryService, CategoryManager>();
             services.AddScoped<ICategoryDal, EfCategoryDal>();
 
+            services.AddSingleton<ICartSessionService, CartSessionService>();
+            services.AddSingleton<ICartService, CartService>();
+
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+            services.AddSession();
+            services.AddDistributedMemoryCache();
+
             services.AddControllersWithViews();
         }
 
@@ -52,6 +62,7 @@ namespace E_Ticaret.WebUI
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            app.UseSession();
             app.UseRouting();
 
             app.UseAuthorization();
