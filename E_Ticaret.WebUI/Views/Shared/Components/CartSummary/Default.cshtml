@@ -1,0 +1,18 @@
+﻿@model E_Ticaret.WebUI.Models.CartSummaryViewModel
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        SEPET
+    </a>
+    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+        @foreach (var item in Model.Cart.CartLines)
+        {
+            <a class="dropdown-item">@item.Product.ProductName <span class="badge badge-success">@item.Quantity</span></a>
+        }
+        <div class="dropdown-divider"></div>
+        <a><p style="text-align:center">Toplam : @Model.Cart.Total</p></a>
+        <div class="dropdown-divider"></div>
+        <a asp-controller="Cart" asp-action="List"><p style="text-align:center" >Detaya Git</p></a>
+        
+    </div>
+</li>
