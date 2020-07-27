@@ -15,3 +15,4 @@ C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcore
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.csproj.CoreCompileInputs.cache
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.dll
 C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.pdb
+C:\Users\suley\Desktop\NetCore_3.1\.NetCore_3.1\E_Ticaret.Core\obj\Debug\netcoreapp3.1\E_Ticaret.Core.csprojAssemblyReference.cache

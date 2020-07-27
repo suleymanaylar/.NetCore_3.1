@@ -1,0 +1,65 @@
+﻿@using System.Threading.Tasks
+@model E_Ticaret.WebUI.Models.RegisterViewModel
+
+@{ ViewData["Title"] = "Register";
+    Layout = null; }
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sign Up Form by Colorlib</title>
+
+    <link href="~/css/Register/fonts/material-icon/css/material-design-iconic-font.css" rel="stylesheet" />
+    <link href="~/css/Register/css/style.css" rel="stylesheet" />
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="main">
+
+        <section class="signup">
+            <!-- <img src="images/signup-bg.jpg" alt=""> -->
+            <div class="container">
+                <div class="signup-content">
+                    <form asp-controller="Account" asp-action="Register" method="post" id="signup-form" class="signup-form">
+                        <h2 class="form-title">Kayıt Ol</h2>
+                        <div class="form-group">
+                            <input asp-for="UserName" type="text" class="form-input"  id="name" placeholder="Ad" />
+                        </div>
+                        <div class="form-group">
+                            <input asp-for="Email" type="email" class="form-input"  id="email" placeholder="E-Mail" />
+                        </div>
+                        <div class="form-group">
+                            <input asp-for="Password" type="text" class="form-input"  id="password" placeholder="Şifre" />
+                            <span toggle="#password" class="zmdi zmdi-eye field-icon toggle-password"></span>
+                        </div>
+                        <div class="form-group">
+                            <input asp-for="ComfirmPassword" type="password" class="form-input"  id="re_password" placeholder="Şifre Tekrar" />
+                        </div>
+                        
+                        <div class="form-group">
+                            <input type="submit" name="submit" id="submit" class="form-submit" value="Kayıt Ol" />
+                        </div>
+                    </form>
+                    <p class="loginhere">
+                       Zaten Kayıtlımısınız? <a asp-controller="Account" asp-action="Login" class="loginhere-link">Giriş Yap</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <script src="~/css/Register/js/main.js"></script>
+</body>
+</html>
+

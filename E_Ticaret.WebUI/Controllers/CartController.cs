@@ -64,7 +64,7 @@ namespace E_Ticaret.WebUI.Controllers
                 ShippingDetails = new ShippingDetails()
             };
 
-            return View();
+            return View(model);
         }
         [HttpPost]
         public ActionResult Complete(ShippingDetails shippingDetails)
